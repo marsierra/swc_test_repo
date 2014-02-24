@@ -1,6 +1,6 @@
-we have learned today how to configure git
-[D[D[A[A[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C:
-[D[D[D[D[D[D[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+we have learned today:
 how to configure git
 how to commit files
+how to make branches
+many interesting things
 ...
