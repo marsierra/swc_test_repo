@@ -3,4 +3,3 @@ how to configure git
 how to commit files
 how to make branches
 many interesting things
-...
